@@ -47,7 +47,6 @@
     ]
   },
   "Marie Antoinette (20th Anniversary 4K Restoration)": {
-    "certificate": "15",
     "runtime": "123 mins",
     "review": "Sofia Coppola’s stylised portrait of the young queen returns in a new 4K restoration, pairing sumptuous period imagery with anachronistic pop music. The Guardian admires its intimate, inventive approach, while the BFI highlights Kirsten Dunst’s performance and the film’s distinctive visual and musical world.",
     "sources": [
@@ -63,11 +62,19 @@
   },
   "The Man Who Fell To Earth (50th Anniversary 4K Restoration)": {
     "runtime": "139 mins",
-    "review": "David Bowie’s enigmatic alien outsider returns to cinemas in Nicolas Roeg’s striking 1976 science-fiction drama. The Guardian’s five-star re-release verdict celebrates its strange, enduring vision.",
+    "review": "Nicolas Roeg’s strange, visually audacious sci-fi film remains a haunting portrait of alienation and media-saturated modern life, with David Bowie’s otherworldly performance at its centre. The Guardian and The Times both find its warnings about technology and human disconnection strikingly current, though its fragmented style remains deliberately unsettling.",
     "sources": [
       {
         "outlet": "The Guardian",
         "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/14/this-week-uk-cinema-releases-cynthia-erivo-prima-facie-johnny-depp-ebenezer"
+      },
+      {
+        "outlet": "The Times",
+        "url": "https://www.thetimes.com/culture/film/article/david-bowie-man-who-fell-to-earth-review-3n0j88h5z"
+      },
+      {
+        "outlet": "The Double Negative",
+        "url": "https://www.thedoublenegative.co.uk/2026/11/prescient-and-poignant-the-man-who-fell-to-earth-at-50/"
       }
     ]
   }
