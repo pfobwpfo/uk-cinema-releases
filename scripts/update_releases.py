@@ -9,7 +9,7 @@ import requests
 from bs4 import BeautifulSoup
 
 ROOT=Path(__file__).resolve().parents[1]
-URL="https://filmdistributorsassociation.com/print-release-schedule/"
+URL="https://filmdistributorsassociation.com/release-schedule/all-future-releases/"
 WEEKDAYS=r"(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s+\d{1,2}\s+[A-Za-z]+\s+\d{4}"
 SKIP={"Release Schedule","This week's releases","Event Cinema","VOD Only","Media Info Key","Access Formats","Film Formats","Print version"}
 NON_FILM_EVENT=re.compile(r"\b(opera|theatre|concert|live viewing|finals in cinema|with peppa)\b",re.I)
