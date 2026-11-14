@@ -1,119 +1,114 @@
 {
   "week_label": "Week commencing 9 November 2026",
   "updated": "14 November 2026",
+  "source": "https://filmdistributorsassociation.com/print-release-schedule/",
   "films": [
+    {
+      "title": "ChaO",
+      "release_date": "2026-11-12",
+      "rerelease": false
+    },
+    {
+      "title": "Vidudala",
+      "release_date": "2026-11-12",
+      "rerelease": false
+    },
     {
       "title": "How To Rob A Bank",
       "release_date": "2026-11-13",
       "certificate": "15",
-      "rerelease": false,
-      "review": "",
-      "sources": []
+      "rerelease": false
     },
     {
       "title": "Give Me The Ball!",
       "release_date": "2026-11-13",
-      "rerelease": false,
-      "review": "",
-      "sources": []
+      "rerelease": false
     },
     {
       "title": "A FOX UNDER A PINK MOON",
       "release_date": "2026-11-13",
-      "rerelease": false,
-      "review": "",
-      "sources": []
+      "rerelease": false
     },
     {
       "title": "Being Heumann",
       "release_date": "2026-11-13",
-      "certificate": "12A",
-      "rerelease": false,
-      "review": "",
-      "sources": []
+      "rerelease": false
     },
     {
       "title": "The Mosquito Bowl",
       "release_date": "2026-11-13",
-      "certificate": "15",
-      "rerelease": false,
-      "review": "",
-      "sources": []
+      "rerelease": false
     },
     {
       "title": "Mega158",
       "release_date": "2026-11-13",
-      "rerelease": false,
-      "review": "",
-      "sources": []
+      "rerelease": false
     },
     {
       "title": "Kaaka",
       "release_date": "2026-11-13",
-      "rerelease": false,
-      "review": "",
-      "sources": []
+      "rerelease": false
     },
     {
       "title": "100 Sunset",
       "release_date": "2026-11-13",
-      "rerelease": false,
-      "review": "",
-      "sources": []
+      "rerelease": false
     },
     {
       "title": "Prima Facie",
       "release_date": "2026-11-13",
-      "certificate": "15",
-      "rerelease": false,
-      "review": "",
-      "sources": []
+      "rerelease": false
     },
     {
       "title": "Marie Antoinette (20th Anniversary 4K Restoration)",
       "release_date": "2026-11-13",
       "certificate": "15",
-      "rerelease": true,
-      "review": "",
-      "sources": []
+      "runtime": "123 mins",
+      "rerelease": true
     },
     {
       "title": "1 IN 2",
       "release_date": "2026-11-13",
-      "rerelease": false,
-      "review": "",
-      "sources": []
+      "rerelease": false
     },
     {
       "title": "Fjord",
       "release_date": "2026-11-13",
       "certificate": "15",
-      "rerelease": false,
-      "review": "",
-      "sources": []
+      "rerelease": false
     },
     {
       "title": "The Man Who Fell To Earth (50th Anniversary 4K Restoration)",
       "release_date": "2026-11-13",
-      "rerelease": true,
-      "review": "",
-      "sources": []
+      "rerelease": true
     },
     {
       "title": "Whispers In The Woods",
       "release_date": "2026-11-13",
       "certificate": "U",
-      "rerelease": false,
-      "review": "",
-      "sources": []
+      "rerelease": false
     },
     {
       "title": "Ebenezer",
       "release_date": "2026-11-13",
       "certificate": "12A",
-      "rerelease": false,
-      "review": "",
-      "sources": []
+      "runtime": "116 mins",
+      "rerelease": false
+    },
+    {
+      "title": "George Krish",
+      "release_date": "2026-11-14",
+      "rerelease": false
+    },
+    {
+      "title": "League Of Legends Worlds 26 – Finals In Cinema",
+      "release_date": "2026-11-14",
+      "rerelease": false
+    },
+    {
+      "title": "Festive Fun With Peppa",
+      "release_date": "2026-11-14",
+      "rerelease": false
     }
   ]
-}\n
+}
