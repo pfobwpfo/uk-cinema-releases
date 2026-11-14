@@ -17,7 +17,23 @@
       "title": "How To Rob A Bank",
       "release_date": "2026-11-13",
       "certificate": "15",
-      "rerelease": false
+      "rerelease": false,
+      "runtime": "122 mins",
+      "review": "A punchy, topical heist thriller with lively action and an anti-billionaire edge, but critics disagree about whether its politics and characters land. Time Out enjoys its cheeky energy, while The Guardian finds it flat and Radio Times calls it entertaining but uneven.",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/film/2026/nov/11/how-to-rob-a-bank-movie-review-amazon"
+        },
+        {
+          "outlet": "Radio Times",
+          "url": "https://www.radiotimes.com/movies/how-to-rob-a-bank-review/"
+        },
+        {
+          "outlet": "Time Out",
+          "url": "https://www.timeout.com/movies/how-to-rob-a-bank-review-2026"
+        }
+      ]
     },
     {
       "title": "Give Me The Ball!",
@@ -64,7 +80,18 @@
       "release_date": "2026-11-13",
       "certificate": "15",
       "runtime": "123 mins",
-      "rerelease": true
+      "rerelease": true,
+      "review": "Sofia Coppola’s stylised portrait of the young queen returns in a new 4K restoration, pairing sumptuous period imagery with anachronistic pop music. The Guardian admires its intimate, inventive approach, while the BFI highlights Kirsten Dunst’s performance and the film’s distinctive visual and musical world.",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/14/this-week-uk-cinema-releases-cynthia-erivo-prima-facie-johnny-depp-ebenezer"
+        },
+        {
+          "outlet": "BFI",
+          "url": "https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Aarticle_id=073C0856-79E3-43A7-93CE-620AF8669AB9&BOparam%3A%3AWScontent%3A%3Acontext_id=13E6E6CE-0091-4EFC-8E35-922CF890CFFA&doWork%3A%3AWScontent%3A%3AloadArticle=Load"
+        }
+      ]
     },
     {
       "title": "1 IN 2",
@@ -75,39 +102,54 @@
       "title": "Fjord",
       "release_date": "2026-11-13",
       "certificate": "15",
-      "rerelease": false
+      "rerelease": false,
+      "review": "Cristian Mungiu’s Palme d’Or-winning drama turns a family dispute into a tense examination of faith, child protection and the limits of state power. Radio Times finds it gripping and provocative, while The Guardian considers its moral ambiguity intriguing but ultimately underpowered.",
+      "sources": [
+        {
+          "outlet": "Radio Times",
+          "url": "https://www.radiotimes.com/movies/fjord-review-sebastian-stan-renate-reinsve/"
+        },
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/film/2026/may/18/fjord-review-cristian-mungiu-at-sea-with-strange-child-abuse-drama-starring-renate-reinsve-and-sebastian-stan"
+        }
+      ]
     },
     {
       "title": "The Man Who Fell To Earth (50th Anniversary 4K Restoration)",
       "release_date": "2026-11-13",
-      "rerelease": true
+      "rerelease": true,
+      "runtime": "139 mins",
+      "review": "David Bowie’s enigmatic alien outsider returns to cinemas in Nicolas Roeg’s striking 1976 science-fiction drama. The Guardian’s five-star re-release verdict celebrates its strange, enduring vision.",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/14/this-week-uk-cinema-releases-cynthia-erivo-prima-facie-johnny-depp-ebenezer"
+        }
+      ]
     },
     {
       "title": "Whispers In The Woods",
       "release_date": "2026-11-13",
       "certificate": "U",
-      "rerelease": false
+      "rerelease": false,
+      "review": "A visually ravishing, quietly moving nature documentary in which filmmaker Vincent Munier explores the forests of the Vosges with his father and son. The Guardian praises its tenderness and generational warmth, while Time Out finds it a transporting meditation on the natural world.",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/film/2026/nov/10/whispers-in-the-woods-review-paddling-in-the-moonlight-in-tender-study-of-human-animal-interaction"
+        },
+        {
+          "outlet": "Time Out",
+          "url": "https://www.timeout.com/movies/whispers-in-the-woods-review-2026"
+        }
+      ]
     },
     {
       "title": "Ebenezer",
       "release_date": "2026-11-13",
       "certificate": "12A",
       "runtime": "116 mins",
-      "rerelease": false
-    },
-    {
-      "title": "George Krish",
-      "release_date": "2026-11-14",
-      "rerelease": false
-    },
-    {
-      "title": "League Of Legends Worlds 26 – Finals In Cinema",
-      "release_date": "2026-11-14",
-      "rerelease": false
-    },
-    {
-      "title": "Festive Fun With Peppa",
-      "release_date": "2026-11-14",
       "rerelease": false
     }
   ]
