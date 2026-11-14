@@ -77,5 +77,54 @@
         "url": "https://www.thedoublenegative.co.uk/2026/11/prescient-and-poignant-the-man-who-fell-to-earth-at-50/"
       }
     ]
+  },
+  "Give Me The Ball!": {
+    "review": "An engaging portrait of Billie Jean King that connects her sporting dominance with her fight for equal pay and wider social change. The Guardian praises its lively account of King’s advocacy, while Time Out highlights the documentary’s exhilarating mix of archive footage and candid reflection.",
+    "sources": [
+      {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/film/2026/nov/11/give-me-the-ball-review-billie-jean-king-documentary"
+      },
+      {
+        "outlet": "Time Out",
+        "url": "https://www.timeout.com/movies/billie-jean-king-give-me-the-ball-review-2026"
+      }
+    ]
+  },
+  "100 Sunset": {
+    "review": "A quiet, elusive drama set within Toronto’s Tibetan community, following a withdrawn teenager whose petty theft draws her into the lives of her neighbours. The Guardian finds it dreamlike and disorientating, while Sight and Sound sees a strange, stubborn power in its deliberately uncomfortable style.",
+    "sources": [
+      {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/film/2026/nov/09/100-sunset-review-kunsang-kyirong-kenzin-kunsel"
+      },
+      {
+        "outlet": "Sight and Sound",
+        "url": "https://www.bfi.org.uk/sight-and-sound/reviews/100-sunset-slippery-yarn-about-teen-kleptomaniac-revels-discomfort"
+      }
+    ]
+  },
+  "Ebenezer": {
+    "certificate": "12A",
+    "runtime": "116 mins",
+    "review": "Ti West gives Dickens’s Christmas story a gothic-horror edge, with striking production design and memorable ghostly set pieces. The Guardian and Scotsman find Johnny Depp’s Scrooge entertainingly eccentric, but Radio Times and Time Out feel his exaggerated performance undermines an otherwise handsome, conventional adaptation.",
+    "sources": [
+      {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens"
+      },
+      {
+        "outlet": "Radio Times",
+        "url": "https://www.radiotimes.com/movies/ebenezer-johnny-depp-review/"
+      },
+      {
+        "outlet": "The Scotsman",
+        "url": "https://www.scotsman.com/arts-and-culture/film-and-tv/ebenezer-review-johnny-depp-slips-back-into-off-kilter-kook-mode-9345784"
+      },
+      {
+        "outlet": "Time Out",
+        "url": "https://www.timeout.com/movies/ebenezer-review-2026"
+      }
+    ]
   }
 }
