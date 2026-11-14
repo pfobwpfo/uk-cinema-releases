@@ -14,7 +14,8 @@
       "title": "Vidudala",
       "release_date": "2026-11-12",
       "rerelease": false,
-      "genre": "Action"
+      "genre": "Action",
+      "synopsis": "Two army officers and close friends find their skills tested when they are drawn into a series of national-defence crises."
     },
     {
       "title": "How To Rob A Bank",
@@ -278,7 +279,8 @@
       "title": "George Krish",
       "release_date": "2026-11-14",
       "rerelease": false,
-      "genre": "Comedy"
+      "genre": "Comedy",
+      "synopsis": "A Telugu-language science-fiction comedy starring Sharwanand in the contrasting roles of George and Krish."
     }
   ]
 }
