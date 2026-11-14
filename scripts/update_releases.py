@@ -57,7 +57,7 @@ def main():
         extra=editorial.get(film["title"],lookup.get(key,{}))
         if end < release <= today+datetime.timedelta(days=28) and extra.get("synopsis"):
             upcoming.append({"title":film["title"],"release_date":film["release_date"],"synopsis":extra["synopsis"]})
-    (data_dir/"coming-soon.json").write_text(json.dumps({"updated":today.strftime("%-d %B %Y"),"films":upcoming},ensure_ascii=False,indent=2)+"\\n")
+    (data_dir/"coming-soon.json").write_text(json.dumps({"updated":today.strftime("%-d %B %Y"),"films":upcoming},ensure_ascii=False,indent=2)+"\n")
     current=data_dir/"current.json"
     if current.exists():
         old=json.loads(current.read_text())
