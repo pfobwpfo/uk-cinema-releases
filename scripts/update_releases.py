@@ -12,6 +12,7 @@ ROOT=Path(__file__).resolve().parents[1]
 URL="https://filmdistributorsassociation.com/print-release-schedule/"
 WEEKDAYS=r"(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s+\d{1,2}\s+[A-Za-z]+\s+\d{4}"
 SKIP={"Release Schedule","This week's releases","Event Cinema","VOD Only","Media Info Key","Access Formats","Film Formats","Print version"}
+NON_FILM_EVENT=re.compile(r"\b(opera|theatre|concert|live viewing|finals in cinema|with peppa)\b",re.I)
 
 def main():
     response=requests.get(URL,timeout=40,headers={"User-Agent":"UKCinemaReleases/1.0 (weekly public release list)"})
@@ -24,7 +25,7 @@ def main():
         if re.fullmatch(WEEKDAYS,text):
             current_date=datetime.datetime.strptime(text.split(" ",1)[1],"%d %B %Y").date()
             continue
-        if h.name not in ("h4","h5") or not current_date or not text or text in SKIP:
+        if h.name not in ("h4","h5") or not current_date or not text or text in SKIP or NON_FILM_EVENT.search(text):
             continue
         if len(text)>130 or text.lower().startswith(("week commencing","print date")):
             continue
