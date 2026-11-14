@@ -6,12 +6,14 @@
     {
       "title": "ChaO",
       "release_date": "2026-11-12",
-      "rerelease": false
+      "rerelease": false,
+      "genre": "Animation"
     },
     {
       "title": "Vidudala",
       "release_date": "2026-11-12",
-      "rerelease": false
+      "rerelease": false,
+      "genre": "Action"
     },
     {
       "title": "How To Rob A Bank",
@@ -33,7 +35,8 @@
           "outlet": "Time Out",
           "url": "https://www.timeout.com/movies/how-to-rob-a-bank-review-2026"
         }
-      ]
+      ],
+      "genre": "Thriller"
     },
     {
       "title": "Give Me The Ball!",
@@ -49,7 +52,8 @@
           "outlet": "Time Out",
           "url": "https://www.timeout.com/movies/billie-jean-king-give-me-the-ball-review-2026"
         }
-      ]
+      ],
+      "genre": "Documentary"
     },
     {
       "title": "A FOX UNDER A PINK MOON",
@@ -60,7 +64,8 @@
           "outlet": "The Guardian",
           "url": "https://www.theguardian.com/film/2026/nov/09/a-fox-under-a-pink-moon-review-iran-refugee"
         }
-      ]
+      ],
+      "genre": "Documentary"
     },
     {
       "title": "Being Heumann",
@@ -80,7 +85,8 @@
           "outlet": "Radio Times",
           "url": "https://www.radiotimes.com/movies/being-heumann-review/"
         }
-      ]
+      ],
+      "genre": "Drama"
     },
     {
       "title": "The Mosquito Bowl",
@@ -96,17 +102,20 @@
           "outlet": "Radio Times",
           "url": "https://www.radiotimes.com/movies/the-mosquito-bowl-review"
         }
-      ]
+      ],
+      "genre": "War"
     },
     {
       "title": "Mega158",
       "release_date": "2026-11-13",
-      "rerelease": false
+      "rerelease": false,
+      "genre": "Action"
     },
     {
       "title": "Kaaka",
       "release_date": "2026-11-13",
-      "rerelease": false
+      "rerelease": false,
+      "genre": "Action"
     },
     {
       "title": "100 Sunset",
@@ -122,7 +131,8 @@
           "outlet": "Sight and Sound",
           "url": "https://www.bfi.org.uk/sight-and-sound/reviews/100-sunset-slippery-yarn-about-teen-kleptomaniac-revels-discomfort"
         }
-      ]
+      ],
+      "genre": "Drama"
     },
     {
       "title": "Prima Facie",
@@ -142,7 +152,8 @@
           "outlet": "Time Out",
           "url": "https://www.timeout.com/movies/prima-facie-review-2026"
         }
-      ]
+      ],
+      "genre": "Drama"
     },
     {
       "title": "Marie Antoinette (20th Anniversary 4K Restoration)",
@@ -159,7 +170,8 @@
           "outlet": "BFI",
           "url": "https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Aarticle_id=073C0856-79E3-43A7-93CE-620AF8669AB9&BOparam%3A%3AWScontent%3A%3Acontext_id=13E6E6CE-0091-4EFC-8E35-922CF890CFFA&doWork%3A%3AWScontent%3A%3AloadArticle=Load"
         }
-      ]
+      ],
+      "genre": "Drama"
     },
     {
       "title": "1 IN 2",
@@ -170,7 +182,8 @@
           "outlet": "The Guardian",
           "url": "https://www.theguardian.com/film/2026/nov/09/1-in-2-review-bowel-cancer-david-wilkinson"
         }
-      ]
+      ],
+      "genre": "Documentary"
     },
     {
       "title": "Fjord",
@@ -187,7 +200,8 @@
           "outlet": "The Guardian",
           "url": "https://www.theguardian.com/film/2026/may/18/fjord-review-cristian-mungiu-at-sea-with-strange-child-abuse-drama-starring-renate-reinsve-and-sebastian-stan"
         }
-      ]
+      ],
+      "genre": "Drama"
     },
     {
       "title": "The Man Who Fell To Earth (50th Anniversary 4K Restoration)",
@@ -208,7 +222,8 @@
           "outlet": "The Double Negative",
           "url": "https://www.thedoublenegative.co.uk/2026/11/prescient-and-poignant-the-man-who-fell-to-earth-at-50/"
         }
-      ]
+      ],
+      "genre": "Sci-Fi"
     },
     {
       "title": "Whispers In The Woods",
@@ -225,7 +240,8 @@
           "outlet": "Time Out",
           "url": "https://www.timeout.com/movies/whispers-in-the-woods-review-2026"
         }
-      ]
+      ],
+      "genre": "Documentary"
     },
     {
       "title": "Ebenezer",
@@ -251,12 +267,14 @@
           "outlet": "Time Out",
           "url": "https://www.timeout.com/movies/ebenezer-review-2026"
         }
-      ]
+      ],
+      "genre": "Horror"
     },
     {
       "title": "George Krish",
       "release_date": "2026-11-14",
-      "rerelease": false
+      "rerelease": false,
+      "genre": "Comedy"
     }
   ]
 }
