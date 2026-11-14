@@ -7,7 +7,8 @@
       "title": "ChaO",
       "release_date": "2026-11-12",
       "rerelease": false,
-      "genre": "Animation"
+      "genre": "Animation",
+      "synopsis": "In a future where humans and mermaids uneasily coexist, an engineer’s life is upended when a mermaid princess unexpectedly proposes marriage."
     },
     {
       "title": "Vidudala",
@@ -65,7 +66,8 @@
           "url": "https://www.theguardian.com/film/2026/nov/09/a-fox-under-a-pink-moon-review-iran-refugee"
         }
       ],
-      "genre": "Documentary"
+      "genre": "Documentary",
+      "review": "Filmed over five years on a smartphone, this striking documentary follows Afghan teenager Soraya Akhlaghi’s repeated attempts to escape Iran and join her mother in Austria. The Guardian praises the film’s intimate, often harrowing account and the vivid drawings and animations through which Soraya expresses her hopes and fears."
     },
     {
       "title": "Being Heumann",
@@ -109,7 +111,8 @@
       "title": "Mega158",
       "release_date": "2026-11-13",
       "rerelease": false,
-      "genre": "Action"
+      "genre": "Action",
+      "synopsis": "A quiet shrimp-farm supervisor’s life takes a dangerous turn when a discovery at work reveals that the business is hiding a cache of weapons."
     },
     {
       "title": "Kaaka",
@@ -183,7 +186,8 @@
           "url": "https://www.theguardian.com/film/2026/nov/09/1-in-2-review-bowel-cancer-david-wilkinson"
         }
       ],
-      "genre": "Documentary"
+      "genre": "Documentary",
+      "review": "David Wilkinson turns the camera on his own stage-four bowel cancer treatment while investigating the rise of the disease among younger people. The Guardian finds the result compassionate, candid and often humorous, giving patients and NHS staff a voice while urging greater awareness of symptoms and screening."
     },
     {
       "title": "Fjord",
