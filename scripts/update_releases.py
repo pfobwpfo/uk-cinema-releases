@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 
 ROOT=Path(__file__).resolve().parents[1]
 URL="https://filmdistributorsassociation.com/print-release-schedule/"
-WEEKDAYS=r"(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\\s+\\d{1,2}\\s+[A-Za-z]+\\s+\\d{4}"
+WEEKDAYS=r"(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s+\d{1,2}\s+[A-Za-z]+\s+\d{4}"
 SKIP={"Release Schedule","This week's releases","Event Cinema","VOD Only","Media Info Key","Access Formats","Film Formats","Print version"}
 
 def main():
@@ -53,8 +53,8 @@ def main():
         if old.get("week_label")!=data["week_label"] and old.get("films"):
             archive=data_dir/"archive";archive.mkdir(exist_ok=True)
             stamp=re.sub(r"[^a-z0-9]+","-",old.get("week_label","week").lower()).strip("-")
-            (archive/f"{stamp}.json").write_text(json.dumps(old,ensure_ascii=False,indent=2)+"\\n")
-    current.write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\\n")
+            (archive/f"{stamp}.json").write_text(json.dumps(old,ensure_ascii=False,indent=2)+"\n")
+    current.write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n")
     print(f"Published {len(week_films)} releases for {data['week_label']}")
 
 if __name__=="__main__": main()
