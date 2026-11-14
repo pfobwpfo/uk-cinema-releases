@@ -28,7 +28,7 @@ def main():
             continue
         if len(text)>130 or text.lower().startswith(("week commencing","print date")):
             continue
-        films.append({"title":text,"release_date":current_date.isoformat(),"rerelease":bool(re.search(r"restoration|anniversary|re-release|re-release",text,re.I))})
+        films.append({"title":text,"release_date":current_date.isoformat(),"rerelease":bool(re.search(r"restoration|anniversary|re-release",text,re.I))})
     if not films:
         raise RuntimeError("No release titles found; FDA page structure may have changed. Existing site data left untouched.")
     today=datetime.date.today()
