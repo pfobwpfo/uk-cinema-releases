@@ -45,7 +45,7 @@ def main():
     editorial=json.loads(editorial_path.read_text()) if editorial_path.exists() else {}
     for film in week_films:
         extra=editorial.get(film["title"],{})
-        film.update({k:v for k,v in extra.items() if k in ("genre","certificate","runtime","review","sources","rerelease")})
+        film.update({k:v for k,v in extra.items() if k in ("genre","certificate","runtime","review","sources","synopsis","rerelease")})
     data={"week_label":f"Week commencing {start.strftime('%-d %B %Y')}","updated":today.strftime("%-d %B %Y"),"source":URL,"films":week_films}
     data_dir=ROOT/"data"; data_dir.mkdir(exist_ok=True)
     # Rolling four-week preview; only list films with an editorially supplied synopsis.
