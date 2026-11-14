@@ -16,7 +16,8 @@
         "outlet": "Time Out",
         "url": "https://www.timeout.com/movies/how-to-rob-a-bank-review-2026"
       }
-    ]
+    ],
+    "genre": "Thriller"
   },
   "Whispers In The Woods": {
     "certificate": "U",
@@ -30,7 +31,8 @@
         "outlet": "Time Out",
         "url": "https://www.timeout.com/movies/whispers-in-the-woods-review-2026"
       }
-    ]
+    ],
+    "genre": "Documentary"
   },
   "Fjord": {
     "certificate": "15",
@@ -44,7 +46,8 @@
         "outlet": "The Guardian",
         "url": "https://www.theguardian.com/film/2026/may/18/fjord-review-cristian-mungiu-at-sea-with-strange-child-abuse-drama-starring-renate-reinsve-and-sebastian-stan"
       }
-    ]
+    ],
+    "genre": "Drama"
   },
   "Marie Antoinette (20th Anniversary 4K Restoration)": {
     "runtime": "123 mins",
@@ -58,7 +61,8 @@
         "outlet": "BFI",
         "url": "https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Aarticle_id=073C0856-79E3-43A7-93CE-620AF8669AB9&BOparam%3A%3AWScontent%3A%3Acontext_id=13E6E6CE-0091-4EFC-8E35-922CF890CFFA&doWork%3A%3AWScontent%3A%3AloadArticle=Load"
       }
-    ]
+    ],
+    "genre": "Drama"
   },
   "The Man Who Fell To Earth (50th Anniversary 4K Restoration)": {
     "runtime": "139 mins",
@@ -76,7 +80,8 @@
         "outlet": "The Double Negative",
         "url": "https://www.thedoublenegative.co.uk/2026/11/prescient-and-poignant-the-man-who-fell-to-earth-at-50/"
       }
-    ]
+    ],
+    "genre": "Sci-Fi"
   },
   "Give Me The Ball!": {
     "review": "An engaging portrait of Billie Jean King that connects her sporting dominance with her fight for equal pay and wider social change. The Guardian praises its lively account of King’s advocacy, while Time Out highlights the documentary’s exhilarating mix of archive footage and candid reflection.",
@@ -89,7 +94,8 @@
         "outlet": "Time Out",
         "url": "https://www.timeout.com/movies/billie-jean-king-give-me-the-ball-review-2026"
       }
-    ]
+    ],
+    "genre": "Documentary"
   },
   "100 Sunset": {
     "review": "A quiet, elusive drama set within Toronto’s Tibetan community, following a withdrawn teenager whose petty theft draws her into the lives of her neighbours. The Guardian finds it dreamlike and disorientating, while Sight and Sound sees a strange, stubborn power in its deliberately uncomfortable style.",
@@ -102,7 +108,8 @@
         "outlet": "Sight and Sound",
         "url": "https://www.bfi.org.uk/sight-and-sound/reviews/100-sunset-slippery-yarn-about-teen-kleptomaniac-revels-discomfort"
       }
-    ]
+    ],
+    "genre": "Drama"
   },
   "Ebenezer": {
     "certificate": "12A",
@@ -125,7 +132,8 @@
         "outlet": "Time Out",
         "url": "https://www.timeout.com/movies/ebenezer-review-2026"
       }
-    ]
+    ],
+    "genre": "Horror"
   },
   "Being Heumann": {
     "review": "Ruth Madeley gives a forceful, sympathetic performance in this account of disability-rights campaigner Judy Heumann and the 1977 Section 504 occupation. The Guardian admires its heartfelt, high-energy portrayal of collective activism, while Time Out argues that the film’s admirable subject is let down by familiar biopic conventions and thinly drawn characters.",
@@ -142,7 +150,8 @@
         "outlet": "Radio Times",
         "url": "https://www.radiotimes.com/movies/being-heumann-review/"
       }
-    ]
+    ],
+    "genre": "Drama"
   },
   "The Mosquito Bowl": {
     "review": "Peter Berg’s Second World War drama is technically accomplished and stages its Pacific battles with muscular intensity, but its four central football-playing Marines never become especially vivid characters. The Guardian finds it slick but clichéd, while Radio Times likewise praises the craft but feels the film lacks emotional resonance.",
@@ -155,7 +164,8 @@
         "outlet": "Radio Times",
         "url": "https://www.radiotimes.com/movies/the-mosquito-bowl-review"
       }
-    ]
+    ],
+    "genre": "War"
   },
   "Prima Facie": {
     "review": "Cynthia Erivo’s commanding performance anchors this screen version of Suzie Miller’s courtroom drama, and critics agree that its treatment of sexual-assault cases has real force. The Guardian praises Erivo’s intensity and the film’s robust storytelling, while Radio Times and Time Out find the adaptation less convincing when it moves beyond the central performance and the original play’s monologue-driven structure.",
@@ -172,7 +182,8 @@
         "outlet": "Time Out",
         "url": "https://www.timeout.com/movies/prima-facie-review-2026"
       }
-    ]
+    ],
+    "genre": "Drama"
   },
   "1 IN 2": {
     "sources": [
@@ -180,7 +191,8 @@
         "outlet": "The Guardian",
         "url": "https://www.theguardian.com/film/2026/nov/09/1-in-2-review-bowel-cancer-david-wilkinson"
       }
-    ]
+    ],
+    "genre": "Documentary"
   },
   "A FOX UNDER A PINK MOON": {
     "sources": [
@@ -188,7 +200,8 @@
         "outlet": "The Guardian",
         "url": "https://www.theguardian.com/film/2026/nov/09/a-fox-under-a-pink-moon-review-iran-refugee"
       }
-    ]
+    ],
+    "genre": "Documentary"
   },
   "The Hunger Games: Sunrise On The Reaping": {
     "synopsis": "A prequel set 24 years before the original Hunger Games, following young Haymitch Abernathy as he is drawn into the 50th Hunger Games."
@@ -243,5 +256,20 @@
   },
   "Disney’s Hexed": {
     "synopsis": "An unconventional teenager discovers magical powers and is swept into a hidden witch realm, where she and her cautious mother uncover family secrets."
+  },
+  "ChaO": {
+    "genre": "Animation"
+  },
+  "Vidudala": {
+    "genre": "Action"
+  },
+  "Mega158": {
+    "genre": "Action"
+  },
+  "Kaaka": {
+    "genre": "Action"
+  },
+  "George Krish": {
+    "genre": "Comedy"
   }
 }
