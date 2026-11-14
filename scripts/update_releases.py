@@ -48,6 +48,16 @@ def main():
         film.update({k:v for k,v in extra.items() if k in ("certificate","runtime","review","sources","rerelease")})
     data={"week_label":f"Week commencing {start.strftime('%-d %B %Y')}","updated":today.strftime("%-d %B %Y"),"source":URL,"films":week_films}
     data_dir=ROOT/"data"; data_dir.mkdir(exist_ok=True)
+    # Rolling four-week preview; only list films with an editorially supplied synopsis.
+    lookup={k.casefold().replace("’", "'"):v for k,v in editorial.items()}
+    upcoming=[]
+    for film in films:
+        release=datetime.date.fromisoformat(film["release_date"])
+        key=film["title"].casefold().replace("’", "'")
+        extra=editorial.get(film["title"],lookup.get(key,{}))
+        if end < release <= today+datetime.timedelta(days=28) and extra.get("synopsis"):
+            upcoming.append({"title":film["title"],"release_date":film["release_date"],"synopsis":extra["synopsis"]})
+    (data_dir/"coming-soon.json").write_text(json.dumps({"updated":today.strftime("%-d %B %Y"),"films":upcoming},ensure_ascii=False,indent=2)+"\\n")
     current=data_dir/"current.json"
     if current.exists():
         old=json.loads(current.read_text())
