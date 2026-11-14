@@ -1,6 +1,6 @@
 # UK Cinema Releases
 
-A lightweight, text-only GitHub Pages site listing UK theatrical releases for the current week.
+A lightweight, text-only GitHub Pages site with separate **This week** and **Coming soon** tabs for UK theatrical releases.
 
 ## Publishing
 
@@ -11,7 +11,7 @@ A lightweight, text-only GitHub Pages site listing UK theatrical releases for th
 
 ## Weekly updates
 
-GitHub Actions runs every Thursday at 18:00 UTC and can also be run manually from **Actions → Update UK cinema releases → Run workflow**. It reads the Film Distributors' Association print release schedule and updates `data/current.json`. Previous weeks are saved under `data/archive/`.
+GitHub Actions runs every Thursday at 18:00 UTC and can also be run manually from **Actions → Update UK cinema releases → Run workflow**. It reads the Film Distributors' Association future release schedule, updates `data/current.json`, and refreshes `data/coming-soon.json` with a rolling four-week preview. Previous weeks are saved under `data/archive/`.
 
 ## Editorial information
 
