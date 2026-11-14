@@ -126,5 +126,68 @@
         "url": "https://www.timeout.com/movies/ebenezer-review-2026"
       }
     ]
+  },
+  "Being Heumann": {
+    "review": "Ruth Madeley gives a forceful, sympathetic performance in this account of disability-rights campaigner Judy Heumann and the 1977 Section 504 occupation. The Guardian admires its heartfelt, high-energy portrayal of collective activism, while Time Out argues that the film’s admirable subject is let down by familiar biopic conventions and thinly drawn characters.",
+    "sources": [
+      {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/film/2026/nov/05/being-heumann-review-disability-rights-judy-heumann"
+      },
+      {
+        "outlet": "Time Out",
+        "url": "https://www.timeout.com/movies/being-heumann-review-2026"
+      },
+      {
+        "outlet": "Radio Times",
+        "url": "https://www.radiotimes.com/movies/being-heumann-review/"
+      }
+    ]
+  },
+  "The Mosquito Bowl": {
+    "review": "Peter Berg’s Second World War drama is technically accomplished and stages its Pacific battles with muscular intensity, but its four central football-playing Marines never become especially vivid characters. The Guardian finds it slick but clichéd, while Radio Times likewise praises the craft but feels the film lacks emotional resonance.",
+    "sources": [
+      {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/film/2026/oct/29/the-mosquito-bowl-netflix-movie-review"
+      },
+      {
+        "outlet": "Radio Times",
+        "url": "https://www.radiotimes.com/movies/the-mosquito-bowl-review"
+      }
+    ]
+  },
+  "Prima Facie": {
+    "review": "Cynthia Erivo’s commanding performance anchors this screen version of Suzie Miller’s courtroom drama, and critics agree that its treatment of sexual-assault cases has real force. The Guardian praises Erivo’s intensity and the film’s robust storytelling, while Radio Times and Time Out find the adaptation less convincing when it moves beyond the central performance and the original play’s monologue-driven structure.",
+    "sources": [
+      {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/film/2026/nov/11/prima-facie-review-cynthia-erivo-sexual-assault-drama"
+      },
+      {
+        "outlet": "Radio Times",
+        "url": "https://www.radiotimes.com/movies/prima-facie-review/"
+      },
+      {
+        "outlet": "Time Out",
+        "url": "https://www.timeout.com/movies/prima-facie-review-2026"
+      }
+    ]
+  },
+  "1 IN 2": {
+    "sources": [
+      {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/film/2026/nov/09/1-in-2-review-bowel-cancer-david-wilkinson"
+      }
+    ]
+  },
+  "A FOX UNDER A PINK MOON": {
+    "sources": [
+      {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/film/2026/nov/09/a-fox-under-a-pink-moon-review-iran-refugee"
+      }
+    ]
   }
 }
