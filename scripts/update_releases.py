@@ -55,6 +55,18 @@ def main():
             stamp=re.sub(r"[^a-z0-9]+","-",old.get("week_label","week").lower()).strip("-")
             (archive/f"{stamp}.json").write_text(json.dumps(old,ensure_ascii=False,indent=2)+"\n")
     current.write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n")
+    archive_dir=data_dir/"archive"
+    archive_dir.mkdir(exist_ok=True)
+    manifest=[]
+    for item in sorted(archive_dir.glob("*.json")):
+        if item.name=="index.json":
+            continue
+        try:
+            saved=json.loads(item.read_text())
+            manifest.append({"file":item.name,"week_label":saved.get("week_label",item.stem)})
+        except (OSError,ValueError):
+            continue
+    (archive_dir/"index.json").write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n")
     print(f"Published {len(week_films)} releases for {data['week_label']}")
 
 if __name__=="__main__": main()
