@@ -56,7 +56,7 @@ def main():
         key=film["title"].casefold().replace("’", "'")
         extra=editorial.get(film["title"],lookup.get(key,{}))
         if end < release <= today+datetime.timedelta(days=28) and extra.get("synopsis"):
-            upcoming.append({"title":film["title"],"release_date":film["release_date"],"synopsis":extra["synopsis"]})
+            upcoming.append({"title":film["title"],"release_date":film["release_date"],**{k:extra[k] for k in ("genre","certificate","runtime") if extra.get(k)},"synopsis":extra["synopsis"]})
     (data_dir/"coming-soon.json").write_text(json.dumps({"updated":today.strftime("%-d %B %Y"),"films":upcoming},ensure_ascii=False,indent=2)+"\n")
     current=data_dir/"current.json"
     if current.exists():
