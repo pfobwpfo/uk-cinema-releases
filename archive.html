@@ -1,0 +1,7 @@
+<!doctype html>
+<html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Previous weeks – UK Cinema Releases</title>
+<style>body{max-width:780px;margin:0 auto;padding:32px 22px;font:16px/1.55 system-ui,sans-serif;color:#17202a}a{color:#245b8f}h1{line-height:1.15}.film{padding:12px 0;border-bottom:1px solid #dce2e8}.muted{color:#596575;font-size:.9rem}</style></head>
+<body><p><a href="./">← This week’s releases</a></p><h1>Previous weeks</h1><div id="list">Loading archive…</div>
+<script>
+async function show(){const root=document.getElementById("list");try{const m=await(await fetch("data/archive/index.json")).json();if(!m.length){root.textContent="No previous weeks have been archived yet.";return}root.innerHTML="";for(const x of m.reverse()){const d=await(await fetch("data/archive/"+encodeURIComponent(x.file))).json();const sec=document.createElement("section");sec.innerHTML="<h2>"+x.week_label+"</h2><div class='muted'>"+(d.updated||"")+"</div>";for(const f of d.films||[]){const p=document.createElement("div");p.className="film";p.textContent=f.title+(f.certificate?" · "+f.certificate:"")+(f.runtime?" · "+f.runtime:"");sec.append(p)}root.append(sec)}}catch(e){root.textContent="The archive will appear here after the first weekly rollover."}}show();
+</script></body></html>
