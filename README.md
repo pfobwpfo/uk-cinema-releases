@@ -15,6 +15,6 @@ GitHub Actions runs every Thursday at 18:00 UTC and can also be run manually fro
 
 ## Editorial information
 
-The FDA schedule is the source for release dates. Certificate and running time are included only when verified. Add verified details and concise review summaries to `data/editorial.json`, keyed by the exact FDA title. Review summaries should synthesise more than one reputable UK critic and link directly to the original reviews. The updater deliberately does not invent certificates, runtimes or critic opinions when that editorial information is not supplied.
+The FDA schedule is the source for release dates. Certificate and running time are included only when verified. Add verified details and concise review summaries to `data/editorial.json`, keyed by the exact FDA title. Review summaries should synthesise more than one reputable UK critic and link directly to the original reviews. Include verified Mark Kermode reviews from the Kermode and Mayo's Take YouTube channel where available, linking to the individual video and confirming that it is a review by Kermode of the same film. The updater deliberately does not invent certificates, runtimes or critic opinions when that editorial information is not supplied.
 
 The current seed list is an initial snapshot; run the workflow once after enabling Pages to refresh it from the FDA.
