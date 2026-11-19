@@ -23,7 +23,7 @@
       "certificate": "15",
       "rerelease": false,
       "runtime": "122 mins",
-      "review": "This lively, topical heist thriller combines energetic action with a sharp anti-billionaire streak. Its cheeky humour gives it plenty of momentum, although its political ideas and characterisation do not always land as convincingly as its entertaining premise.",
+      "review": "David Leitch’s high-energy heist film has a lively premise and plenty of kinetic action, but its anti-capitalist satire is undercut by thinly drawn characters, dated internet humour and a story that rarely gives its robbers meaningful consequences. It can be a diverting, throwaway caper, yet it never turns its political anger into the urgency or emotional force it promises.",
       "sources": [
         {
           "outlet": "The Guardian",
@@ -36,6 +36,18 @@
         {
           "outlet": "Time Out",
           "url": "https://www.timeout.com/movies/how-to-rob-a-bank-review-2026"
+        },
+        {
+          "outlet": "Sight and Sound",
+          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/how-rob-bank-anti-capitalist-heist-movie-fails-invest-enough-personality-its-characters"
+        },
+        {
+          "outlet": "The Times",
+          "url": "https://www.thetimes.com/culture/film/article/how-to-rob-a-bank-review-nicholas-hoult-zoe-kravitz-d7skkx7qm"
+        },
+        {
+          "outlet": "Kermode and Mayo's Take (Mark Kermode)",
+          "url": "https://www.youtube.com/watch?v=cLoo3HqlTKY"
         }
       ],
       "genre": "Thriller"
@@ -95,7 +107,7 @@
       "title": "The Mosquito Bowl",
       "release_date": "2026-11-13",
       "rerelease": false,
-      "review": "Peter Berg’s Second World War drama stages its Pacific battles with muscular intensity and considerable technical skill, following four football-playing Marines into the conflict. The action is impressively mounted, but the central characters remain thinly drawn, limiting the film’s emotional impact.",
+      "review": "Peter Berg’s Pacific war drama delivers brutal, well-staged battle sequences and clear technical polish, but the four football-playing Marines remain thinly sketched and the episodic story struggles to build emotional weight. Its echoes of Saving Private Ryan are unmistakable, yet the film lacks that film’s coherence and human depth.",
       "sources": [
         {
           "outlet": "The Guardian",
@@ -104,6 +116,10 @@
         {
           "outlet": "Radio Times",
           "url": "https://www.radiotimes.com/movies/the-mosquito-bowl-review"
+        },
+        {
+          "outlet": "The Times",
+          "url": "https://www.thetimes.com/culture/film/article/mosquito-bowl-review-film-netflix-peter-berg-second-world-war-zcmtngmqp"
         }
       ],
       "genre": "War"
@@ -143,7 +159,7 @@
       "title": "Prima Facie",
       "release_date": "2026-11-13",
       "rerelease": false,
-      "review": "Cynthia Erivo’s commanding performance anchors this screen version of Suzie Miller’s courtroom drama, giving real force to its examination of how sexual-assault cases are handled. The central story remains powerful, although the film is less assured when it moves beyond Erivo’s intense performance and the original play’s monologue-driven structure.",
+      "review": "Cynthia Erivo gives a fierce, commanding central performance that keeps this courtroom drama emotionally charged, especially in its depiction of reporting sexual assault and confronting a legal system stacked against complainants. The move from a single stage monologue to conventional screen storytelling sometimes blunts the original’s immediacy, but its moral urgency and lead performance remain potent.",
       "sources": [
         {
           "outlet": "The Guardian",
@@ -156,6 +172,10 @@
         {
           "outlet": "Time Out",
           "url": "https://www.timeout.com/movies/prima-facie-review-2026"
+        },
+        {
+          "outlet": "Sight and Sound",
+          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/prima-facie-cynthia-erivo-gives-towering-performance-overly-literal-adaptation-successful-one-woman-show"
         }
       ],
       "genre": "Drama"
@@ -170,10 +190,6 @@
         {
           "outlet": "The Guardian",
           "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/14/this-week-uk-cinema-releases-cynthia-erivo-prima-facie-johnny-depp-ebenezer"
-        },
-        {
-          "outlet": "BFI",
-          "url": "https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Aarticle_id=073C0856-79E3-43A7-93CE-620AF8669AB9&BOparam%3A%3AWScontent%3A%3Acontext_id=13E6E6CE-0091-4EFC-8E35-922CF890CFFA&doWork%3A%3AWScontent%3A%3AloadArticle=Load"
         }
       ],
       "genre": "Drama"
@@ -196,7 +212,7 @@
       "release_date": "2026-11-13",
       "certificate": "15",
       "rerelease": false,
-      "review": "Cristian Mungiu’s Palme d’Or-winning drama turns a family dispute into a tense examination of faith, child protection and the limits of state power. Its gripping moral questions and unsettling ambiguity are compelling, even if the drama’s careful deliberation can leave some of its ideas feeling less fully explored.",
+      "review": "An austere, slow-burning drama turns a family dispute into an unsettling clash of religious conviction, cultural difference and state power. Its finely balanced performances and refusal to settle the argument make it provocative and absorbing, though the unresolved story and deliberate pace can feel frustrating rather than revelatory.",
       "sources": [
         {
           "outlet": "Radio Times",
@@ -205,6 +221,14 @@
         {
           "outlet": "The Guardian",
           "url": "https://www.theguardian.com/film/2026/may/18/fjord-review-cristian-mungiu-at-sea-with-strange-child-abuse-drama-starring-renate-reinsve-and-sebastian-stan"
+        },
+        {
+          "outlet": "The Times",
+          "url": "https://www.thetimes.com/culture/film/article/fjord-review-im-not-sure-this-divisive-film-deserved-the-palme-dor-qs8srvhth"
+        },
+        {
+          "outlet": "Kermode and Mayo's Take (Mark Kermode)",
+          "url": "https://www.youtube.com/watch?v=v_KJxY1b0ys"
         }
       ],
       "genre": "Drama"
@@ -255,7 +279,7 @@
       "certificate": "12A",
       "runtime": "116 mins",
       "rerelease": false,
-      "review": "Ti West gives Dickens’s Christmas story a gothic-horror edge, with striking production design and memorable ghostly set pieces. Johnny Depp’s eccentric take on Scrooge is entertainingly offbeat, though its exaggerated manner can feel at odds with the more conventional shape of the adaptation.",
+      "review": "Ti West gives A Christmas Carol a gloomy, horror-tinged makeover with lavish period detail and a few effective ghostly shocks, but the familiar story is played too straight to feel newly revealing. Johnny Depp’s exaggerated, theatrical Scrooge can be amusingly offbeat yet also tips into mannered caricature, leaving the film visually accomplished but emotionally thin.",
       "sources": [
         {
           "outlet": "The Guardian",
@@ -272,6 +296,14 @@
         {
           "outlet": "Time Out",
           "url": "https://www.timeout.com/movies/ebenezer-review-2026"
+        },
+        {
+          "outlet": "The Times",
+          "url": "https://www.thetimes.com/culture/film/article/ebenezer-film-review-johnny-depp-rxzz7wbrp"
+        },
+        {
+          "outlet": "Kermode and Mayo's Take (Mark Kermode)",
+          "url": "https://www.youtube.com/watch?v=JjGU7gdQEhw"
         }
       ],
       "genre": "Horror"
