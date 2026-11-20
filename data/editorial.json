@@ -237,16 +237,74 @@
     "synopsis": "A prequel set 24 years before the original Hunger Games, following young Haymitch Abernathy as he is drawn into the 50th Hunger Games."
   },
   "A Talent For Murder": {
-    "synopsis": "A young literary agent visits the reclusive Patricia Highsmith in Switzerland to persuade her to write another Ripley novel, but their meeting becomes a dangerous battle of wits."
+    "review": "Helen Mirren relishes the role of a fictionalised Patricia Highsmith in this witty, literary chamber thriller, sparring with an ambitious young editor who hopes to coax one last Ripley novel from her. The performances and sharp dialogue make it an enjoyable watch, but its central mystery lacks the menace and tension of Highsmith’s best work.",
+    "sources": [
+      {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/film/2026/sep/15/talent-for-murder-movie-review"
+      },
+      {
+        "outlet": "Radio Times",
+        "url": "https://www.radiotimes.com/movies/a-talent-for-murder-review/"
+      }
+    ],
+    "certificate": "15",
+    "genre": "Thriller"
   },
   "Josephine": {
-    "synopsis": "An eight-year-old girl struggles to cope after witnessing a violent crime, with the event placing pressure on her family."
+    "review": "A quietly devastating drama about an eight-year-old girl struggling to process a sexual assault she witnesses, anchored by a remarkable performance from young Mason Reeves. Its sensitive attention to the child’s fear and the strain on her family is powerful, though some of the film’s procedural turns and visual choices feel more contrived than convincing.",
+    "sources": [
+      {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/film/2026/nov/18/josephine-review-mason-reeves"
+      },
+      {
+        "outlet": "The Irish Times",
+        "url": "https://www.irishtimes.com/culture/film/review/2026/11/19/josephine-review-quietly-devastating-with-a-magnetic-performance-by-its-young-star/"
+      },
+      {
+        "outlet": "Financial Times",
+        "url": "https://www.ft.com/content/4feab684-7de8-4216-bcf7-bfafcdbf3c2d"
+      }
+    ],
+    "certificate": "18",
+    "runtime": "121 mins",
+    "genre": "Drama"
   },
   "Filipinana": {
-    "synopsis": "At an elite Manila country club, 17-year-old tee-girl Isabel tries to return a lost golf club and uncovers the violence and power hidden beneath its polished surface."
+    "review": "A visually sumptuous, quietly unsettling debut turns an elite Manila golf club into a microcosm of class privilege, exploitation and colonial power. Its deliberate pacing and elusive storytelling demand patience, but the carefully composed images and growing sense of menace give the satire a lasting bite.",
+    "sources": [
+      {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/film/2026/nov/16/filipinana-review-rafael-manuel-golf"
+      },
+      {
+        "outlet": "Sight and Sound",
+        "url": "https://www.bfi.org.uk/sight-and-sound/reviews/filipinana-beautifully-shot-satire-golf-club-class-cuts-deep"
+      }
+    ],
+    "certificate": "12A",
+    "runtime": "100 mins",
+    "genre": "Drama"
   },
   "You Can See Everything": {
-    "synopsis": "Filmmakers Nathan Fielder and Lance Oppenheim follow Theranos founder Elizabeth Holmes in the weeks before she begins her prison sentence, in an unsettling documentary about truth and performance."
+    "review": "This audacious documentary-hybrid turns the story of Elizabeth Holmes into a gripping, often surreal study of performance, deception and the manufacture of reality. Nathan Fielder’s unsettling methods and the film’s unexpected shifts make it as provocative as it is entertaining, although its deliberate blurring of fact and fiction leaves plenty of questions hanging.",
+    "sources": [
+      {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/film/2026/nov/19/you-can-see-everything-review-docu-hybrid-masterpiece-nathan-fielder-elizabeth-holmes"
+      },
+      {
+        "outlet": "The Independent",
+        "url": "https://www.the-independent.com/arts-entertainment/films/reviews/you-can-see-everything-review-nathan-fielder-elizabeth-holmes-b3086746.html"
+      },
+      {
+        "outlet": "RTÉ",
+        "url": "https://www.rte.ie/entertainment/movie-reviews/2026/1120/1599726-you-can-see-everything-the-slipperiest-film-of-2026/"
+      }
+    ],
+    "certificate": "15",
+    "genre": "Documentary"
   },
   "Focker-In-Law": {
     "synopsis": "Greg Focker's son brings his girlfriend home to meet the family, prompting fresh anxieties when he announces plans to propose."
@@ -282,7 +340,20 @@
     "synopsis": "A drama exploring memory, loss and the changing urban landscape."
   },
   "The Hunger Games: Sunrise On The Reaping, The": {
-    "synopsis": "Set 24 years before the original film, this prequel follows young Haymitch Abernathy as he is selected for the 50th Hunger Games."
+    "review": "This expansive prequel gives Haymitch’s origins a brutal, emotionally charged backstory, with a strong central performance and an impressive ensemble. Its familiar franchise machinery and overextended plotting can make it feel like another instalment rather than a fresh reinvention, but it remains a substantial, often gripping return to Panem.",
+    "sources": [
+      {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/film/2026/nov/17/the-hunger-games-sunrise-on-the-reaping-review-surreally-awful-prequel-to-the-katniss-everdeen-era"
+      },
+      {
+        "outlet": "Radio Times",
+        "url": "https://www.radiotimes.com/movies/hunger-games-sunrise-reaping-review/"
+      }
+    ],
+    "certificate": "12A",
+    "runtime": "158 mins",
+    "genre": "Action, Adventure"
   },
   "Disney’s Hexed": {
     "synopsis": "An unconventional teenager discovers magical powers and is swept into a hidden witch realm, where she and her cautious mother uncover family secrets."
@@ -306,5 +377,87 @@
   "George Krish": {
     "genre": "Comedy",
     "synopsis": "A Telugu-language science-fiction comedy starring Sharwanand in the contrasting roles of George and Krish."
+  },
+  "American Doctor": {
+    "review": "This harrowing documentary follows three American doctors working in Gaza’s overwhelmed hospitals, then traces their efforts to make the suffering they witnessed heard back home. Its unflinching images are difficult to watch, but the doctors’ commitment and the film’s clear-eyed account of medical work under bombardment give it considerable urgency and emotional force.",
+    "sources": [
+      {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/film/2026/nov/17/american-doctor-review-medics-put-their-lives-on-the-line-in-gaza-poh-si-ten-documentary"
+      },
+      {
+        "outlet": "Time Out",
+        "url": "https://www.timeout.com/movies/american-doctor-review-2026"
+      },
+      {
+        "outlet": "The Scotsman",
+        "url": "https://www.scotsman.com/arts-and-culture/film-and-tv/film-reviews-your-mother-your-mother-your-mother-american-doctor-9357611"
+      }
+    ],
+    "certificate": "18",
+    "runtime": "93 mins",
+    "genre": "Documentary"
+  },
+  "Heysel 85": {
+    "review": "This dramatisation of the 1985 Heysel Stadium disaster gives a tense, human perspective on the chaos surrounding the Liverpool–Juventus European Cup final. Its staging conveys the scale of the tragedy, but a thin script, uneven performances and limited resources struggle to do justice to the historical weight of the events.",
+    "sources": [
+      {
+        "outlet": "The Irish Times",
+        "url": "https://www.irishtimes.com/culture/film/review/2026/11/20/heysel-85-review-with-such-compelling-archive-footage-why-dramatise-the-liverpool-juventus-disaster/"
+      }
+    ],
+    "certificate": "15",
+    "runtime": "92 mins",
+    "genre": "Drama"
+  },
+  "Steps": {
+    "review": "This lively Cinderella reworking gives the supposedly wicked stepsisters their own story, with spirited voice performances and enough comic energy to keep the adventure moving. The plot becomes crowded with subplots and familiar fairytale reversals, while the animation lacks a distinctive look, but its humour and pace make it a cheerful family diversion.",
+    "sources": [
+      {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/film/2026/nov/20/steps-netflix-movie-review"
+      }
+    ],
+    "genre": "Animation, Comedy, Fantasy",
+    "runtime": "102 mins"
+  },
+  "Your Mother Your Mother Your Mother": {
+    "review": "Mahershala Ali gives a deeply felt performance as a widowed Muslim hitman trying to reconcile his violent work with the demands of fatherhood and faith. The film’s vivid, often brutal action is matched by an unexpectedly tender family drama, though its deliberately strange tone and crowded religious themes make for an unsettling rather than straightforwardly entertaining experience.",
+    "sources": [
+      {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/film/2026/nov/18/your-mother-your-mother-your-mother-review-mahershala-ali"
+      },
+      {
+        "outlet": "The Irish Times",
+        "url": "https://www.irishtimes.com/culture/film/review/2026/11/19/your-mother-your-mother-your-mother-review-unnerving-thriller-with-hitman-in-an-unseen-us/"
+      },
+      {
+        "outlet": "Sight and Sound",
+        "url": "https://www.bfi.org.uk/sight-and-sound/reviews/your-mother-your-mother-your-mother-widowed-hit-man-mission-find-breast-milk-his-baby-this-eccentric-action-thriller"
+      },
+      {
+        "outlet": "The Scotsman",
+        "url": "https://www.scotsman.com/arts-and-culture/film-and-tv/film-reviews-your-mother-your-mother-your-mother-american-doctor-9357611"
+      }
+    ],
+    "certificate": "15",
+    "runtime": "112 mins",
+    "genre": "Action, Thriller"
+  },
+  "The Match": {
+    "synopsis": "A documentary revisits the 1986 Argentina–England World Cup quarter-final, examining how the match became a flashpoint for tensions between the two nations.",
+    "genre": "Documentary"
+  },
+  "CBeebies Panto 2026: Treasure Island": {
+    "synopsis": "A filmed family pantomime follows Jim and his dad Bertie on a swashbuckling treasure hunt, with pirates, songs, comedy and familiar CBeebies performers.",
+    "certificate": "U",
+    "runtime": "70 mins",
+    "genre": "Family"
+  },
+  "70 Syaal": {
+    "synopsis": "A man returns with his family to his ancestral village in Punjab to bring peace to his dying father, but their homecoming awakens a decades-old supernatural curse that threatens his wife and newborn child.",
+    "runtime": "135 mins",
+    "genre": "Horror"
   }
 }
