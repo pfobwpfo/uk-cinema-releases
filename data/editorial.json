@@ -470,5 +470,21 @@
     "synopsis": "A young lawyer takes on the case of her husband, whom she believes has been wrongly convicted of murder, and finds herself opposed in court by her own mentor.",
     "genre": "Drama",
     "runtime": "138 mins"
+  },
+  "Hunger Games: Sunrise On The Reaping, The": {
+    "review": "This expansive prequel gives Haymitch’s origins a brutal, emotionally charged backstory, with a strong central performance and an impressive ensemble. Its familiar franchise machinery and overextended plotting can make it feel like another instalment rather than a fresh reinvention, but it remains a substantial, often gripping return to Panem.",
+    "sources": [
+      {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/film/2026/nov/17/the-hunger-games-sunrise-on-the-reaping-review-surreally-awful-prequel-to-the-katniss-everdeen-era"
+      },
+      {
+        "outlet": "Radio Times",
+        "url": "https://www.radiotimes.com/movies/hunger-games-sunrise-reaping-review/"
+      }
+    ],
+    "certificate": "12A",
+    "runtime": "158 mins",
+    "genre": "Action, Adventure"
   }
 }
