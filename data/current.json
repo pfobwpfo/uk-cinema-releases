@@ -1,315 +1,81 @@
 {
-  "week_label": "Week commencing 9 November 2026",
-  "updated": "19 November 2026",
-  "source": "https://filmdistributorsassociation.com/print-release-schedule/",
+  "week_label": "Week commencing 16 November 2026",
+  "updated": "20 November 2026",
+  "source": "https://filmdistributorsassociation.com/release-schedule/all-future-releases/",
   "films": [
     {
-      "title": "ChaO",
-      "release_date": "2026-11-12",
+      "title": "Hunger Games: Sunrise On The Reaping, The",
+      "release_date": "2026-11-20",
+      "rerelease": false
+    },
+    {
+      "title": "American Doctor",
+      "release_date": "2026-11-20",
+      "rerelease": false
+    },
+    {
+      "title": "Arthur Christmas (15th Anniversary)",
+      "release_date": "2026-11-20",
+      "rerelease": true
+    },
+    {
+      "title": "Josephine",
+      "release_date": "2026-11-20",
       "rerelease": false,
-      "genre": "Animation",
-      "synopsis": "In a future where humans and mermaids uneasily coexist, an engineer’s life is upended when a mermaid princess unexpectedly proposes marriage."
+      "synopsis": "An eight-year-old girl struggles to cope after witnessing a violent crime, with the event placing pressure on her family."
     },
     {
-      "title": "Vidudala",
-      "release_date": "2026-11-12",
+      "title": "A Talent For Murder",
+      "release_date": "2026-11-20",
       "rerelease": false,
-      "genre": "Action",
-      "synopsis": "Two army officers and close friends find their skills tested when they are drawn into a series of national-defence crises."
+      "synopsis": "A young literary agent visits the reclusive Patricia Highsmith in Switzerland to persuade her to write another Ripley novel, but their meeting becomes a dangerous battle of wits."
     },
     {
-      "title": "How To Rob A Bank",
-      "release_date": "2026-11-13",
-      "certificate": "15",
+      "title": "Filipinana",
+      "release_date": "2026-11-20",
       "rerelease": false,
-      "runtime": "122 mins",
-      "review": "David Leitch’s high-energy heist film has a lively premise and plenty of kinetic action, but its anti-capitalist satire is undercut by thinly drawn characters, dated internet humour and a story that rarely gives its robbers meaningful consequences. It can be a diverting, throwaway caper, yet it never turns its political anger into the urgency or emotional force it promises.",
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "url": "https://www.theguardian.com/film/2026/nov/11/how-to-rob-a-bank-movie-review-amazon"
-        },
-        {
-          "outlet": "Radio Times",
-          "url": "https://www.radiotimes.com/movies/how-to-rob-a-bank-review/"
-        },
-        {
-          "outlet": "Time Out",
-          "url": "https://www.timeout.com/movies/how-to-rob-a-bank-review-2026"
-        },
-        {
-          "outlet": "Sight and Sound",
-          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/how-rob-bank-anti-capitalist-heist-movie-fails-invest-enough-personality-its-characters"
-        },
-        {
-          "outlet": "The Times",
-          "url": "https://www.thetimes.com/culture/film/article/how-to-rob-a-bank-review-nicholas-hoult-zoe-kravitz-d7skkx7qm"
-        },
-        {
-          "outlet": "Kermode and Mayo's Take (Mark Kermode)",
-          "url": "https://www.youtube.com/watch?v=cLoo3HqlTKY"
-        }
-      ],
-      "genre": "Thriller"
+      "synopsis": "At an elite Manila country club, 17-year-old tee-girl Isabel tries to return a lost golf club and uncovers the violence and power hidden beneath its polished surface."
     },
     {
-      "title": "Give Me The Ball!",
-      "release_date": "2026-11-13",
+      "title": "The Match",
+      "release_date": "2026-11-20",
+      "rerelease": false
+    },
+    {
+      "title": "CBeebies Panto 2026: Treasure Island",
+      "release_date": "2026-11-20",
+      "rerelease": false
+    },
+    {
+      "title": "Heysel 85",
+      "release_date": "2026-11-20",
+      "rerelease": false
+    },
+    {
+      "title": "You Can See Everything",
+      "release_date": "2026-11-20",
       "rerelease": false,
-      "review": "This engaging portrait of Billie Jean King connects her sporting dominance with her fight for equal pay and wider social change. Lively archive footage and candid reflection give the documentary real energy, while its account of King’s advocacy makes clear how far her influence extended beyond the tennis court.",
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "url": "https://www.theguardian.com/film/2026/nov/11/give-me-the-ball-review-billie-jean-king-documentary"
-        },
-        {
-          "outlet": "Time Out",
-          "url": "https://www.timeout.com/movies/billie-jean-king-give-me-the-ball-review-2026"
-        }
-      ],
-      "genre": "Documentary"
+      "synopsis": "Filmmakers Nathan Fielder and Lance Oppenheim follow Theranos founder Elizabeth Holmes in the weeks before she begins her prison sentence, in an unsettling documentary about truth and performance."
     },
     {
-      "title": "A FOX UNDER A PINK MOON",
-      "release_date": "2026-11-13",
-      "rerelease": false,
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "url": "https://www.theguardian.com/film/2026/nov/09/a-fox-under-a-pink-moon-review-iran-refugee"
-        }
-      ],
-      "genre": "Documentary",
-      "review": "Filmed over five years on a smartphone, this striking documentary follows Afghan teenager Soraya Akhlaghi’s repeated attempts to escape Iran and join her mother in Austria. Its intimate, often harrowing account is given added emotional depth by the vivid drawings and animations through which Soraya expresses her hopes and fears."
+      "title": "Steps",
+      "release_date": "2026-11-20",
+      "rerelease": false
     },
     {
-      "title": "Being Heumann",
-      "release_date": "2026-11-13",
-      "rerelease": false,
-      "review": "Ruth Madeley gives a forceful, sympathetic performance as disability-rights campaigner Judy Heumann in this account of the 1977 Section 504 occupation. The film brings heartfelt energy to a remarkable story of collective activism, even if familiar biopic conventions and lightly drawn supporting characters sometimes blunt its impact.",
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "url": "https://www.theguardian.com/film/2026/nov/05/being-heumann-review-disability-rights-judy-heumann"
-        },
-        {
-          "outlet": "Time Out",
-          "url": "https://www.timeout.com/movies/being-heumann-review-2026"
-        },
-        {
-          "outlet": "Radio Times",
-          "url": "https://www.radiotimes.com/movies/being-heumann-review/"
-        }
-      ],
-      "genre": "Drama"
+      "title": "Sathyavan Savithri",
+      "release_date": "2026-11-20",
+      "rerelease": false
     },
     {
-      "title": "The Mosquito Bowl",
-      "release_date": "2026-11-13",
-      "rerelease": false,
-      "review": "Peter Berg’s Pacific war drama delivers brutal, well-staged battle sequences and clear technical polish, but the four football-playing Marines remain thinly sketched and the episodic story struggles to build emotional weight. Its echoes of Saving Private Ryan are unmistakable, yet the film lacks that film’s coherence and human depth.",
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "url": "https://www.theguardian.com/film/2026/oct/29/the-mosquito-bowl-netflix-movie-review"
-        },
-        {
-          "outlet": "Radio Times",
-          "url": "https://www.radiotimes.com/movies/the-mosquito-bowl-review"
-        },
-        {
-          "outlet": "The Times",
-          "url": "https://www.thetimes.com/culture/film/article/mosquito-bowl-review-film-netflix-peter-berg-second-world-war-zcmtngmqp"
-        }
-      ],
-      "genre": "War"
+      "title": "Your Mother Your Mother Your Mother",
+      "release_date": "2026-11-20",
+      "rerelease": false
     },
     {
-      "title": "Mega158",
-      "release_date": "2026-11-13",
-      "rerelease": false,
-      "genre": "Action",
-      "synopsis": "A quiet shrimp-farm supervisor’s life takes a dangerous turn when a discovery at work reveals that the business is hiding a cache of weapons."
-    },
-    {
-      "title": "Kaaka",
-      "release_date": "2026-11-13",
-      "rerelease": false,
-      "genre": "Action",
-      "synopsis": "A quiet shrimp-farm supervisor’s life takes a dangerous turn when a discovery at work reveals that the business is hiding a cache of weapons."
-    },
-    {
-      "title": "100 Sunset",
-      "release_date": "2026-11-13",
-      "rerelease": false,
-      "review": "Set within Toronto’s Tibetan community, this quiet, elusive drama follows a withdrawn teenager whose petty theft draws her into the lives of her neighbours. Its dreamlike, disorientating style can be deliberately uncomfortable, but that very strangeness gives the film a distinctive and lingering power.",
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "url": "https://www.theguardian.com/film/2026/nov/09/100-sunset-review-kunsang-kyirong-kenzin-kunsel"
-        },
-        {
-          "outlet": "Sight and Sound",
-          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/100-sunset-slippery-yarn-about-teen-kleptomaniac-revels-discomfort"
-        }
-      ],
-      "genre": "Drama"
-    },
-    {
-      "title": "Prima Facie",
-      "release_date": "2026-11-13",
-      "rerelease": false,
-      "review": "Cynthia Erivo gives a fierce, commanding central performance that keeps this courtroom drama emotionally charged, especially in its depiction of reporting sexual assault and confronting a legal system stacked against complainants. The move from a single stage monologue to conventional screen storytelling sometimes blunts the original’s immediacy, but its moral urgency and lead performance remain potent.",
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "url": "https://www.theguardian.com/film/2026/nov/11/prima-facie-review-cynthia-erivo-sexual-assault-drama"
-        },
-        {
-          "outlet": "Radio Times",
-          "url": "https://www.radiotimes.com/movies/prima-facie-review/"
-        },
-        {
-          "outlet": "Time Out",
-          "url": "https://www.timeout.com/movies/prima-facie-review-2026"
-        },
-        {
-          "outlet": "Sight and Sound",
-          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/prima-facie-cynthia-erivo-gives-towering-performance-overly-literal-adaptation-successful-one-woman-show"
-        }
-      ],
-      "genre": "Drama"
-    },
-    {
-      "title": "Marie Antoinette (20th Anniversary 4K Restoration)",
-      "release_date": "2026-11-13",
-      "runtime": "123 mins",
-      "rerelease": true,
-      "review": "Sofia Coppola’s stylised portrait of the young queen returns in a sumptuous 4K restoration, pairing lavish period imagery with anachronistic pop music. Kirsten Dunst brings an intimate vulnerability to the role, while the film’s distinctive visual and musical choices give this unconventional costume drama its enduring appeal.",
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/14/this-week-uk-cinema-releases-cynthia-erivo-prima-facie-johnny-depp-ebenezer"
-        }
-      ],
-      "genre": "Drama"
-    },
-    {
-      "title": "1 IN 2",
-      "release_date": "2026-11-13",
-      "rerelease": false,
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "url": "https://www.theguardian.com/film/2026/nov/09/1-in-2-review-bowel-cancer-david-wilkinson"
-        }
-      ],
-      "genre": "Documentary",
-      "review": "David Wilkinson turns the camera on his own stage-four bowel cancer treatment while investigating the rise of the disease among younger people. The result is a compassionate, candid and often humorous documentary that gives patients and NHS staff a voice while making a clear case for greater awareness of symptoms and screening."
-    },
-    {
-      "title": "Fjord",
-      "release_date": "2026-11-13",
-      "certificate": "15",
-      "rerelease": false,
-      "review": "An austere, slow-burning drama turns a family dispute into an unsettling clash of religious conviction, cultural difference and state power. Its finely balanced performances and refusal to settle the argument make it provocative and absorbing, though the unresolved story and deliberate pace can feel frustrating rather than revelatory.",
-      "sources": [
-        {
-          "outlet": "Radio Times",
-          "url": "https://www.radiotimes.com/movies/fjord-review-sebastian-stan-renate-reinsve/"
-        },
-        {
-          "outlet": "The Guardian",
-          "url": "https://www.theguardian.com/film/2026/may/18/fjord-review-cristian-mungiu-at-sea-with-strange-child-abuse-drama-starring-renate-reinsve-and-sebastian-stan"
-        },
-        {
-          "outlet": "The Times",
-          "url": "https://www.thetimes.com/culture/film/article/fjord-review-im-not-sure-this-divisive-film-deserved-the-palme-dor-qs8srvhth"
-        },
-        {
-          "outlet": "Kermode and Mayo's Take (Mark Kermode)",
-          "url": "https://www.youtube.com/watch?v=v_KJxY1b0ys"
-        }
-      ],
-      "genre": "Drama"
-    },
-    {
-      "title": "The Man Who Fell To Earth (50th Anniversary 4K Restoration)",
-      "release_date": "2026-11-13",
-      "rerelease": true,
-      "runtime": "139 mins",
-      "review": "Nicolas Roeg’s strange, visually audacious science-fiction film remains a haunting portrait of alienation and media-saturated modern life, centred on David Bowie’s otherworldly performance. Its warnings about technology and human disconnection feel strikingly current, while its fragmented, deliberately unsettling style remains an essential part of its singular atmosphere.",
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/14/this-week-uk-cinema-releases-cynthia-erivo-prima-facie-johnny-depp-ebenezer"
-        },
-        {
-          "outlet": "The Times",
-          "url": "https://www.thetimes.com/culture/film/article/david-bowie-man-who-fell-to-earth-review-3n0j88h5z"
-        }
-      ],
-      "genre": "Sci-Fi"
-    },
-    {
-      "title": "Whispers In The Woods",
-      "release_date": "2026-11-13",
-      "certificate": "U",
-      "rerelease": false,
-      "review": "Filmmaker Vincent Munier explores the forests of the Vosges with his father and son in a visually ravishing, quietly moving portrait of the natural world. Its patient observation and tender sense of family make it both an immersive wildlife film and a thoughtful reflection on the passing of knowledge between generations.",
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "url": "https://www.theguardian.com/film/2026/nov/10/whispers-in-the-woods-review-paddling-in-the-moonlight-in-tender-study-of-human-animal-interaction"
-        },
-        {
-          "outlet": "Time Out",
-          "url": "https://www.timeout.com/movies/whispers-in-the-woods-review-2026"
-        }
-      ],
-      "genre": "Documentary"
-    },
-    {
-      "title": "Ebenezer",
-      "release_date": "2026-11-13",
-      "certificate": "12A",
-      "runtime": "116 mins",
-      "rerelease": false,
-      "review": "Ti West gives A Christmas Carol a gloomy, horror-tinged makeover with lavish period detail and a few effective ghostly shocks, but the familiar story is played too straight to feel newly revealing. Johnny Depp’s exaggerated, theatrical Scrooge can be amusingly offbeat yet also tips into mannered caricature, leaving the film visually accomplished but emotionally thin.",
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "url": "https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens"
-        },
-        {
-          "outlet": "Radio Times",
-          "url": "https://www.radiotimes.com/movies/ebenezer-johnny-depp-review/"
-        },
-        {
-          "outlet": "The Scotsman",
-          "url": "https://www.scotsman.com/arts-and-culture/film-and-tv/ebenezer-review-johnny-depp-slips-back-into-off-kilter-kook-mode-9345784"
-        },
-        {
-          "outlet": "Time Out",
-          "url": "https://www.timeout.com/movies/ebenezer-review-2026"
-        },
-        {
-          "outlet": "The Times",
-          "url": "https://www.thetimes.com/culture/film/article/ebenezer-film-review-johnny-depp-rxzz7wbrp"
-        },
-        {
-          "outlet": "Kermode and Mayo's Take (Mark Kermode)",
-          "url": "https://www.youtube.com/watch?v=JjGU7gdQEhw"
-        }
-      ],
-      "genre": "Horror"
-    },
-    {
-      "title": "George Krish",
-      "release_date": "2026-11-14",
-      "rerelease": false,
-      "genre": "Comedy",
-      "synopsis": "A Telugu-language science-fiction comedy starring Sharwanand in the contrasting roles of George and Krish."
+      "title": "70 Syaal",
+      "release_date": "2026-11-20",
+      "rerelease": false
     }
   ]
 }
