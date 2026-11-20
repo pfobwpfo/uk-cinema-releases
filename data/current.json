@@ -48,7 +48,11 @@
     {
       "title": "Arthur Christmas (15th Anniversary)",
       "release_date": "2026-11-20",
-      "rerelease": true
+      "rerelease": true,
+      "synopsis": "When Santa's high-tech operation misses one child, his youngest son Arthur sets out on a frantic Christmas Eve mission to deliver the forgotten present before morning.",
+      "certificate": "U",
+      "runtime": "97 mins",
+      "genre": "Animation, Comedy, Family"
     },
     {
       "title": "Josephine",
@@ -180,7 +184,10 @@
     {
       "title": "Sathyavan Savithri",
       "release_date": "2026-11-20",
-      "rerelease": false
+      "rerelease": false,
+      "synopsis": "A young lawyer takes on the case of her husband, whom she believes has been wrongly convicted of murder, and finds herself opposed in court by her own mentor.",
+      "runtime": "138 mins",
+      "genre": "Drama"
     },
     {
       "title": "Your Mother Your Mother Your Mother",
