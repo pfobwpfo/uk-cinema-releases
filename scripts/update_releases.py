@@ -18,7 +18,7 @@ def main():
     response=requests.get(URL,timeout=40,headers={"User-Agent":"UKCinemaReleases/1.0 (weekly public release list)"})
     response.raise_for_status()
     soup=BeautifulSoup(response.text,"html.parser")
-    # FDA now renders release dates as ordinary text elements rather than
+    # FDA now renders release dates as ordinary text elements (verified Nov 2026) rather than
     # headings. Walk the document in order, recognising date text wherever it
     # appears while continuing to take film names only from h4/h5 elements.
     current_date=None; films=[]
