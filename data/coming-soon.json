@@ -1,36 +1,15 @@
 {
-  "updated": "14 November 2026",
-  "source": "https://filmdistributorsassociation.com/print-release-schedule/",
+  "updated": "20 November 2026",
   "films": [
-    {
-      "title": "The Hunger Games: Sunrise On The Reaping, The",
-      "release_date": "2026-11-20",
-      "synopsis": "Set 24 years before the original film, this prequel follows young Haymitch Abernathy as he is selected for the 50th Hunger Games."
-    },
-    {
-      "title": "A Talent For Murder",
-      "release_date": "2026-11-20",
-      "synopsis": "A young literary agent visits the reclusive Patricia Highsmith in Switzerland to persuade her to write another Ripley novel, but their meeting becomes a dangerous battle of wits."
-    },
-    {
-      "title": "Josephine",
-      "release_date": "2026-11-20",
-      "synopsis": "An eight-year-old girl struggles to cope after witnessing a violent crime, with the event placing pressure on her family."
-    },
-    {
-      "title": "Filipinana",
-      "release_date": "2026-11-20",
-      "synopsis": "At an elite Manila country club, 17-year-old tee-girl Isabel tries to return a lost golf club and uncovers the violence and power hidden beneath its polished surface."
-    },
-    {
-      "title": "You Can See Everything",
-      "release_date": "2026-11-20",
-      "synopsis": "Filmmakers Nathan Fielder and Lance Oppenheim follow Theranos founder Elizabeth Holmes in the weeks before she begins her prison sentence, in an unsettling documentary about truth and performance."
-    },
     {
       "title": "Focker-In-Law",
       "release_date": "2026-11-25",
       "synopsis": "Greg Focker's son brings his girlfriend home to meet the family, prompting fresh anxieties when he announces plans to propose."
+    },
+    {
+      "title": "Disney’s Hexed",
+      "release_date": "2026-11-27",
+      "synopsis": "An unconventional teenager discovers magical powers and is swept into a hidden witch realm, where she and her cautious mother uncover family secrets."
     },
     {
       "title": "Minotaur",
@@ -38,9 +17,14 @@
       "synopsis": "In contemporary Russia, a company executive's marriage and career unravel as he faces pressure to supply employees for military conscription."
     },
     {
-      "title": "Disney’s Hexed",
+      "title": "Ghost Soldier",
       "release_date": "2026-11-27",
-      "synopsis": "An unconventional teenager discovers magical powers and is swept into a hidden witch realm, where she and her cautious mother uncover family secrets."
+      "synopsis": "An action thriller following a soldier caught in a dangerous mission behind enemy lines."
+    },
+    {
+      "title": "Buddy",
+      "release_date": "2026-11-27",
+      "synopsis": "A dark horror-comedy about a children’s television performer whose cheerful on-screen persona gives way to something far more disturbing."
     },
     {
       "title": "The Cat In The Hat",
@@ -51,6 +35,11 @@
       "title": "Violent Night 2",
       "release_date": "2026-12-04",
       "synopsis": "When Santa loses his magic, he must help a mall community threatened by a ruthless gangster and rediscover the meaning of Christmas."
+    },
+    {
+      "title": "I See Buildings Fall Like Lightning",
+      "release_date": "2026-12-04",
+      "synopsis": "A drama exploring memory, loss and the changing urban landscape."
     },
     {
       "title": "Behemoth!",
