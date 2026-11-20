@@ -51,11 +51,15 @@ def main():
     data={"week_label":f"Week commencing {start.strftime('%-d %B %Y')}","updated":today.strftime("%-d %B %Y"),"source":URL,"films":week_films}
     data_dir=ROOT/"data"; data_dir.mkdir(exist_ok=True)
     # Rolling four-week preview; only list films with an editorially supplied synopsis.
-    lookup={k.casefold().replace("’", "'"):v for k,v in editorial.items()}
+    def title_key(value):
+        # Match minor FDA/editorial title variations (punctuation and leading/trailing "The").
+        words=re.findall(r"[a-z0-9]+",value.casefold())
+        return " ".join(w for w in words if w!="the")
+    lookup={title_key(k):v for k,v in editorial.items()}
     upcoming=[]
     for film in films:
         release=datetime.date.fromisoformat(film["release_date"])
-        key=film["title"].casefold().replace("’", "'")
+        key=title_key(film["title"])
         extra=editorial.get(film["title"],lookup.get(key,{}))
         if end < release <= today+datetime.timedelta(days=28) and extra.get("synopsis"):
             upcoming.append({"title":film["title"],"release_date":film["release_date"],**{k:extra[k] for k in ("genre","certificate","runtime") if extra.get(k)},"synopsis":extra["synopsis"]})
