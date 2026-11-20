@@ -2,7 +2,11 @@ name: Update UK cinema releases
 on:
   schedule:
     - cron: "0 18 * * 4"
-  workflow_dispatch:
+  workflow_dispatch
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**":
 permissions:
   contents: write
 jobs:
