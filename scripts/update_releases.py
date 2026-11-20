@@ -18,14 +18,16 @@ def main():
     response=requests.get(URL,timeout=40,headers={"User-Agent":"UKCinemaReleases/1.0 (weekly public release list)"})
     response.raise_for_status()
     soup=BeautifulSoup(response.text,"html.parser")
-    headings=soup.find_all(["h2","h3","h4","h5"])
+    # FDA now renders release dates as ordinary text elements rather than
+    # headings. Walk the document in order, recognising date text wherever it
+    # appears while continuing to take film names only from h4/h5 elements.
     current_date=None; films=[]
-    for h in headings:
-        text=" ".join(h.get_text(" ",strip=True).split())
+    for node in soup.find_all(True):
+        text=" ".join(node.get_text(" ",strip=True).split())
         if re.fullmatch(WEEKDAYS,text):
             current_date=datetime.datetime.strptime(text.split(" ",1)[1],"%d %B %Y").date()
             continue
-        if h.name not in ("h4","h5") or not current_date or not text or text in SKIP or NON_FILM_EVENT.search(text):
+        if node.name not in ("h4","h5") or not current_date or not text or text in SKIP or NON_FILM_EVENT.search(text):
             continue
         if len(text)>130 or text.lower().startswith(("week commencing","print date")):
             continue
